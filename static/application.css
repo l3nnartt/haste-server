@@ -4,7 +4,7 @@ html, body {
 }
 
 body {
-	background: #002B36;
+	background: #2a2a2a;
 	margin: 0;
 	font-family: sans-serif;
 	overflow-x: hidden;
@@ -14,7 +14,7 @@ body {
 /* textarea */
 
 textarea {
-	background: #002B36;
+	background: #2a2a2a;
 	border: 0px;
 	color: #fff;
 	width: 100%;
@@ -112,7 +112,7 @@ button.enabled {
 	bottom: 0;
 	left: 0;
 	right: 0;
-	background: #002B36;
+	background: #2a2a2a;
 }
 
 .menu-actions {
