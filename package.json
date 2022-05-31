@@ -14,7 +14,7 @@
   },
   "main": "haste",
   "dependencies": {
-    "busboy": "0.2.4",
+    "busboy": "1.6.0",
     "connect": "^3.7.0",
     "connect-ratelimit": "0.0.7",
     "connect-route": "0.1.5",
